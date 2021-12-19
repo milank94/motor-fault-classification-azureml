@@ -12,4 +12,5 @@ dependencies:
   - scipy=1.6.3
   - pip:
     - azureml-core>=1.37.0.post1
+    - azureml-defaults>=1.37.0
     - tensorflow>=0.12.0rc1
