@@ -13,4 +13,5 @@ dependencies:
   - pip:
     - azureml-core>=1.37.0.post1
     - azureml-defaults>=1.37.0
+    - azureml-pipeline>=1.37.0
     - tensorflow>=0.12.0rc1
